@@ -49,7 +49,7 @@ This project is perfect for developers looking to understand the core concepts o
 
 - **Chat Interface with Multiple Users**
 
-  ![Chat UI Screenshot](screenshots/Screenshot%002025-07-22%00004037.png)
+  ![Chat UI Screenshot](screenshots/Screenshot 2025-07-22 004037.png)
 
 - **Chat App In Action**
 
