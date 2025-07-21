@@ -49,15 +49,14 @@ This project is perfect for developers looking to understand the core concepts o
 
 - **Chat Interface with Multiple Users**
 
-  ![Chat UI Screenshot](screenshots/chat-ui.png)
+  ![Chat UI Screenshot](screenshots/Screenshot%002025-07-22%00004037.png)
 
-- **Typing Indicator in Action**
+- **Chat App In Action**
 
-  ![Typing Screenshot](screenshots/typing.png)
+  ![Typing Screenshot](screenshots/Screenshot%002025-07-22%00012503.png)
 
-- **Auto-Scroll During Active Conversations**
+  ![Typing Screenshot](screenshots/Screenshot%002025-07-22%00012532.png)
 
-  ![Auto Scroll Screenshot](screenshots/autoscroll.png)
 
 ---
 
