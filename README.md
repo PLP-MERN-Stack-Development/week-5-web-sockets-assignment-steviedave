@@ -53,9 +53,9 @@ This project is perfect for developers looking to understand the core concepts o
 
 - **Chat App In Action**
 
-  ![Typing Screenshot](screenshots/Screenshot%002025-07-22%00012503.png)
+  ![Typing Screenshot](screenshots/Screenshot%202025-07-22%20012503.png)
 
-  ![Typing Screenshot](screenshots/Screenshot%002025-07-22%00012532.png)
+  ![Typing Screenshot](screenshots/Screenshot%202025-07-22%20012532.png)
 
 
 ---
